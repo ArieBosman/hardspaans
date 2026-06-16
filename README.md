@@ -1,3 +1,6 @@
+Lokaal starten:
+pip install streamlit
+
 HARDSPAANS – Spaanse werkwoordentrainer (Hard Mode)
 HARDSPAANS is gemaakt voor leerlingen die de basis en medium‑niveau onregelmatigheden beheersen en klaar zijn voor echte uitdaging. In deze mode oefen je werkwoorden die meerdere onregelmatigheden tegelijk hebben, zoals stamwisselingen gecombineerd met onregelmatige stammen, onregelmatige participia, afwijkende gerundio‑vormen en lastige presente‑vormen. De app kiest automatisch een willekeurig werkwoord, een persoon en een tijd, waarna jij de juiste vervoeging invult. Je krijgt direct feedback zodat je precies ziet waar je fouten zitten en waar je vooruitgang boekt.
 
